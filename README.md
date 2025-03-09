@@ -86,23 +86,33 @@ Software engineering is the development, operation, and maintenance of software.
 
  ■ Waterfall:
    ○ Sequential, linear approach.
+
    ○ Each phase is completed before moving to the next.
+
    ○ Emphasis on detailed planning and documentation.
+
    ○ Suitable for projects with stable requirements and minimal changes.
 
    》 Example: building a very specific embedded system that cannot change after production starts.
 
  ■ Agile:
+
    ○ Iterative and incremental approach.
+
    ○ Focus on flexibility, collaboration, and customer feedback.
+
    ○ Frequent releases and adaptability to changing requirements.
+
    ○ Suitable for projects with evolving requirements and fast-paced environments.
 
    》 Example: Developing a web application where user feedback is constantly driving new features.
 
  ■ Comparison:
+
    ○ Waterfall is rigid, Agile is flexible.
+
    ○ Waterfall is document-driven, Agile is code-driven.
+
    ○ Waterfall is better for predictable projects, Agile for unpredictable ones.
 
 5. Roles and Responsibilities:
@@ -118,42 +128,53 @@ Software engineering is the development, operation, and maintenance of software.
  ○ Integrated Development Environments (IDEs): Software applications that provide comprehensive facilities to computer programmers for software development.
 
    》 Examples: Visual Studio Code.
+
    》 Importance: They improve productivity through code completion, debugging tools, and integrated build systems.
 
  ○ Version Control Systems (VCS): Tools that track changes to code, allowing multiple developers to collaborate and manage different versions of the software.
 
    》 Examples: Git.
+
    》 Importance: They enable collaboration, prevent code conflicts, and provide a history of changes.
 
 7. Common Challenges and Strategies:
 
  ○ Challenge: Changing requirements.
+
    》 Strategy: Implement Agile methodologies, maintain clear communication with stakeholders.
 
  ○ Challenge: Technical debt.
+
    》 Strategy: Regularly refactor code, prioritize technical debt reduction.
 
  ○ Challenge: Communication issues.
+
    》 Strategy: Use collaboration tools, conduct regular team meetings, establish clear communication channels.
 
  ○ Challenge: Time and budget constraints.
+
    》 Strategy: Prioritize tasks, use project management tools, manage scope effectively.
 
  ○ Challenge: Bug management.
+
    》 Strategy: Implement a robust testing strategy, utilize bug tracking software.
 
 8. Types of Testing:
 
  ○ Unit Testing: Testing individual components or functions of the software.
+
    》 Importance: Ensures that each part of the code works correctly in isolation.
 
  ○ Integration Testing: Testing the interactions between different components or modules.
+
    》 Importance: Verifies that the components work together as expected.
 
  ○ System Testing: Testing the entire software system as a whole.
+
    》 Importance: Validates that the system meets the overall requirements.
 
  ○ Acceptance Testing: Testing the software from the end-user's perspective.
+
    》 Importance: Ensures that the software meets the user's needs and expectations.
 
 Part 2: Introduction to AI and Prompt Engineering
@@ -163,18 +184,25 @@ Part 2: Introduction to AI and Prompt Engineering
 Prompt engineering is the process of designing and refining text prompts to effectively communicate with AI models.
 
  ■ Importance:
+
    ○ Maximizes the potential of AI models.
+
    ○ Reduces ambiguity and errors in AI outputs.
+
    ○ Enables more accurate and relevant responses.
+
    ○ Allows for fine-tuning AI behavior and outputs.
+
    ○ Allows humans to control the AI output to a much greater degree.
 
 2. Vague vs. Improved Prompt:
 
  ○ Vague Prompt: "Write something about cats."
+
    》 This prompt is too broad, leading to potentially irrelevant or generic responses.
 
  ○ Improved Prompt: "Write a short paragraph describing the behavioral differences between domestic short-haired cats and Maine Coon cats, focusing on their social interactions with humans."
+
    》 Why it's better:
 
      ▪︎ Clear: Specifies the type of content (paragraph).
