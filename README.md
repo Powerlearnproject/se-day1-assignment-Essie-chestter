@@ -43,7 +43,9 @@ Part 1: Introduction to Software Engineering
 1. What is Software Engineering and its Importance?
 
 Software engineering is the development, operation, and maintenance of software. 
+
  ■Importance:
+
    ○ Complex Systems: Modern software is incredibly complex. Software engineering provides the tools and techniques to manage this complexity.
 
    ○Reliability: It ensures software functions correctly and reliably, which is crucial in critical applications like healthcare, finance, and transportation.
